@@ -105,7 +105,7 @@ Documentation "[amend]" et autres manipulations...
 
 ## Consignes
 
-Décrire ce que vous faites en éditant ce document sur le modèle des indications que j'ai données avant.
+Décrire ce que vous faites en éditant ce document sur le modèle des indications que j'ai donné avant.
 
 Exemple :
 
@@ -117,6 +117,8 @@ Exemple :
 - "squash" des commits ensembles
 
 **Editez ici**
+
+Troisième commit GitHub Desktop
 
 # Remonter dans le temps pour trouver un "bug"
 
