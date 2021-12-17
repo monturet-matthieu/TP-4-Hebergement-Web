@@ -8,13 +8,13 @@ Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 
 Puis cloner votre fork sur votre PC (avec VSCode).
 
-- [X] Chochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
+- [X] Cochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
 - Faire un push du commit sur Github.
 
 ## Principe du TP
 
-- [X] Chochez les checkbox quand demandé et/ou répondez directement dans ce document.
+- [X] Cochez les checkbox quand demandé et/ou répondez directement dans ce document.
 - Suivre les indications sur les commits et autres manipulation.
 
 L'historique git de vos commits sera la preuve que vous avez fait le TP.
@@ -39,7 +39,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 - Ajouter en fin de fichier `.gitignore` la ligne suivante :
   - `/public/video`
 - [X] cocher et commit "ajout dossier à .gitignore"
-- Synchroniser les commit avec Github
+- Synchroniser les commits avec Github
   - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié sur Github
 
 # Conflits
@@ -67,7 +67,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 ## Changer de branche
 
 - Retourner à la branche _"master"_ avec le bouton en bas à droite
-  - Regardez les deux checkboxs audessu, elle ne son pas cochées (**important:** les laissez ainsi) .
+  - Regardez les deux checkboxs au-dessus, elle ne sont pas cochées (**important:** les laissez ainsi) .
   - [X] Cochez et commit : "commit dans master à rebaser dans branche"
 - Regardez la liste des commits
   - Vous ne voyez pas les commits fait dans la branche
@@ -87,7 +87,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
   - Sélectionner la branche _"????/test-branche"_
 - Regardez la liste des commits
   - Vous voyez les commits fait dans la branche !
-    - Et plus haut dans ce document les checkbox corespondantes sont cochées
+    - Et plus haut dans ce document les checkboxs corespondantes sont cochées
 - Poussez les commits vers Github
 
 # "Ammend", Réordonner et "squash" les commits.
@@ -96,8 +96,8 @@ Pour ces étapes on va utiliser Github Destop.
 
 - Lancer Github Desktop et ouvrir la copie locale de ce dépôt avec Github Desktop en le faisant glisser sur son panneau d'accueil.
  - Sélectionner la branche _"????/test-branche"_
-  - On peut modifier l'hisorique des commits tant qu'ils n'ont pas été "poussés" vers le dépôt central (_origin_).
-  - Modifier l'historique des commits déjà publiés peut causser de gros problémes. Donc faire ses traveaux dans une branche est plus sûr.
+  - On peut modifier l'historique des commits tant qu'ils n'ont pas été "poussés" vers le dépôt central (_origin_).
+  - Modifier l'historique des commits déjà publiés peut causer de gros problemes. Donc faire ses travaux dans une branche est plus sûr.
 
 Documentation "[amend]" et autres manipulations...
 
@@ -112,7 +112,7 @@ Exemple :
 ## A vous de faire
 
 - Plusieurs commits
-- "amend" du derniers commit
+- "amend" du dernier commit
 - Réordonnez des commits
 - "squash" des commits ensembles
 
