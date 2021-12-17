@@ -128,7 +128,7 @@ Troisième commit GitHub Desktop
 -
 -
 -
-- [ ] cochez et commit : "après bug 1"
+- [X] cochez et commit : "après bug 1"
 - [ ] cochez et commit : "après bug 2"
 - [ ] cochez et commit : "après bug 3"
 
