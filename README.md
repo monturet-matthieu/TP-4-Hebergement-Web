@@ -150,13 +150,13 @@ Troisième commit GitHub Desktop
 
 Certaines actions ne peuvent être faite s'il existe des changements "non commités".
 
-- [ ] cochez cette case **sans faire de commit !**
+- [X] cochez cette case **sans faire de commit !**
 - Essayez de changez de branche :
   - Vous ne pouvez pas
   - Choisir _"Faire un stash et extraire"_
   - **Ou bien** dans le terminal : `git stash`
     - Suivit du changement de branche
-  - [ ] cochez et commit "Dans branche"
+  - [X] cochez et commit "Dans branche"
 - Retourner à la branche "master"
 - Faire `Shift+CMD+P` _Git: Pop latest stash_
   - *Ou bien* dans le terminal : `git stash pop`
