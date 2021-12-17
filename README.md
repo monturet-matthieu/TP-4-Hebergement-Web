@@ -123,7 +123,7 @@ Troisième commit GitHub Desktop
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"
-- _message à modifier plus tard_
+- **Bug corrigé**
 -
 -
 -
